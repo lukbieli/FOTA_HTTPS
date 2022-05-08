@@ -1,0 +1,7 @@
+[
+	{
+		"type": "esp32-fota-https",
+		"version": "1.0.0",
+		"url": "https://github.com/lukbieli/FOTA_HTTPS/blob/main/release/fw/esp32-fota-https-1_0_0.bin"
+	}
+]
