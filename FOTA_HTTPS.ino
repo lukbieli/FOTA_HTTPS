@@ -22,7 +22,7 @@
 // Change to your WiFi credentials
 const char *ssid = "TP-Link_6937";
 const char *password = "60676092";
-String version = "1.0.0";
+String version = "1.0.1";
 
 // esp32fota esp32fota("<Type of Firme for this device>", <this version>);
 esp32FOTA esp32FOTA("esp32-fota-https", version, false, true);

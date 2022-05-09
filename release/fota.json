@@ -3,5 +3,10 @@
 		"type": "esp32-fota-https",
 		"version": "1.0.0",
 		"url": "https://github.com/lukbieli/FOTA_HTTPS/raw/master/release/fw/esp32-fota-https-1_0_0.bin"
+	},
+	{
+		"type": "esp32-fota-https",
+		"version": "1.0.1",
+		"url": "https://github.com/lukbieli/FOTA_HTTPS/raw/master/release/fw/esp32-fota-https-1_0_1.bin"
 	}
 ]
