@@ -32,7 +32,7 @@ void setup()
   // Provide spiffs with root_ca.pem to validate server certificate
 //  SPIFFS.begin(true);
 //  esp32FOTA.checkURL = "http://192.168.0.111:8082/fota.json";
-  esp32FOTA.checkURL = "https://github.com/lukbieli/FOTA_HTTPS/blob/master/release/fota.json";
+  esp32FOTA.checkURL = "https://raw.githubusercontent.com/lukbieli/FOTA_HTTPS/master/release/fota.json";
   Serial.begin(115200);
   Serial.println(version);
   setup_wifi();
